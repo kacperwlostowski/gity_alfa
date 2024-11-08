@@ -1,3 +1,3 @@
 # gity_alfa
 Analiza testowa - ćwiczenie na zajęciah 8 listopada 2089
-Nie lubię Matiego bardzo
+Pomocy
